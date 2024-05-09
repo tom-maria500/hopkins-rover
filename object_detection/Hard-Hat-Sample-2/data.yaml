@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-b3poi
+  url: https://app.roboflow.com/marsrover/hard-hat-sample-b3poi/2
+  version: 2
+  workspace: marsrover
+test: /Users/jaydenma/Documents/object_detection/Hard-Hat-Sample-2/test
+train: /Users/jaydenma/Documents/object_detection/Hard-Hat-Sample-2/train
+val: /Users/jaydenma/Documents/object_detection/Hard-Hat-Sample-2/valid
